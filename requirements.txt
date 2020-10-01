@@ -5,7 +5,7 @@ Flask-SQLAlchemy==2.4.4
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1598374801163/work
+MarkupSafe==1.1.1
+SQLAlchemy==1.3.3
 Werkzeug==1.0.1
 wincertstore==0.2
