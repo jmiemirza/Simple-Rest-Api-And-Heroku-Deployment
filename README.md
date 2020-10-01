@@ -1,4 +1,4 @@
-#Simple API Design Through Flask and Heroku Deployment
+# Simple API Design Through Flask and Heroku Deployment
 
 This code is for learning purpose and follows the tutorial: https://www.youtube.com/watch?v=Z1RJmh_OqeA
 
